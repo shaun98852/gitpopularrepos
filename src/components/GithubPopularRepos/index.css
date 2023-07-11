@@ -1,0 +1,45 @@
+/* Write your CSS here */
+
+.bg {
+  height: 100vh;
+}
+
+.heading {
+  font-family: Lobster;
+  color: #0f172a;
+  text-align: center;
+  font-size: 40px;
+}
+
+.unList {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.loaderAligner {
+  text-align: center;
+}
+
+.ulListLanguage {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.background {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wrongImage {
+  height: 400px;
+}
+
+.wrongHeading {
+  font-family: roboto;
+  font-size: 32px;
+}

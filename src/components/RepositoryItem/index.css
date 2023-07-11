@@ -1,0 +1,50 @@
+/* Write your CSS here */
+
+.languageListItem {
+  background-color: #f8f8ff;
+  height: 270px;
+  border-radius: 10px;
+  margin: 10px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.image {
+  height: 100px;
+}
+
+.avatarHeading {
+  font-size: 20px;
+  color: #e73959;
+  font-family: roboto;
+}
+
+.starsBox {
+  display: flex;
+  align-items: center;
+  align-self: flex-start;
+  margin-bottom: -15px;
+}
+
+.stars {
+  height: 12px;
+  margin-right: 7px;
+}
+
+.starsParagraph {
+  font-family: roboto;
+  color: #1e293b;
+  margin-right: 7px;
+  font-size: 12px;
+  font-weight: 450;
+}
+
+.starsPara {
+  font-family: roboto;
+  color: #1e293b;
+  font-size: 12px;
+  font-weight: 450;
+}

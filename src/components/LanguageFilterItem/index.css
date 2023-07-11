@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.listItem {
+  margin: 10px;
+}
+
+.listButton {
+}
+
+.showColor {
+  background-color: transparent;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: #0284c7;
+  font-family: roboto;
+  color: #0284c7;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.normalButton {
+  border-style: none;
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: roboto;
+}
